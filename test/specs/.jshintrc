@@ -1,6 +1,7 @@
 {
     "node": false,
     "browser": true,
+    "jquery": true,
     "esnext": true,
     "bitwise": true,
     "camelcase": true,
@@ -20,6 +21,7 @@
     "smarttabs": true,
     "white": true,
     "globals": {
+        "Slick": true,
         "describe": false,
         "beforeEach": false,
         "afterEach": false,

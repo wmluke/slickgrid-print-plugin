@@ -78,9 +78,9 @@
 
     // register namespace
     $.extend(true, window, {
-        "Slick": {
-            "Plugins": {
-                "Print": SlickPrint
+        Slick: {
+            Plugins: {
+                Print: SlickPrint
             }
         }
     });

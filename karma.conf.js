@@ -11,6 +11,11 @@ module.exports = function (config) {
 
         // list of files / patterns to load in the browser
         files: [
+            'test/app/bower_components/jquery/dist/jquery.js',
+            'test/app/bower_components/slickgrid/lib/jquery.event.drag-2.2.js',
+            'test/app/bower_components/slickgrid/slick.core.js',
+            'test/app/bower_components/slickgrid/slick.grid.js',
+
             'src/*.js',
             'src/**/*.js',
 
