@@ -16,10 +16,8 @@ module.exports = function (config) {
             'test/app/bower_components/slickgrid/slick.core.js',
             'test/app/bower_components/slickgrid/slick.grid.js',
 
-            'src/*.js',
             'src/**/*.js',
 
-            'test/specs/*-spec.js',
             'test/specs/**/*-spec.js'
         ],
 
@@ -29,14 +27,13 @@ module.exports = function (config) {
 
         // test results reporter to use
         // possible values: 'dots', 'progress', 'junit', 'growl', 'coverage'
-        reporters: ['dots', 'progress', 'junit', 'coverage'],
+        reporters: ['progress', 'coverage', 'junit'],
 
         preprocessors: {
             // source files, that you wanna generate coverage for
             // do not include tests or libraries
             // (these files will be instrumented by Istanbul)
-            //'scripts/*.js': ['coverage'],
-            //'scripts/**/*.js': ['coverage']
+            'src/scripts/*.js': ['coverage']
         },
 
         coverageReporter: {
