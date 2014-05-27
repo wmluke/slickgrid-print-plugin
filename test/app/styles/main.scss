@@ -1,1 +1,13 @@
 @import "bower_components/bootstrap-sass/lib/bootstrap.scss";
+
+#grid {
+    width: 800px;
+    height: 600px;
+
+    *,
+    *:before,
+    *:after {
+        -moz-box-sizing: content-box;
+        box-sizing: content-box;
+    }
+}

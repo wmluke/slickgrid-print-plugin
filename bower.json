@@ -1,23 +1,23 @@
 {
-    "name": "slickgrid-print-plugin",
-    "version": "0.1.0",
-    "main": [
-        "dist/slickgrid-print-plugin.js"
-    ],
-    "ignore": [
-        "test",
-        "src/.jshintrc",
-        ".jshintrc",
-        ".travis.yml",
-        "karma.conf.js",
-        "Gruntfile.js",
-        "Makefile"
-    ],
-    "dependencies": {},
-    "devDependencies": {
-        "jquery": "~2.1.1",
-        "bootstrap-sass": "~3.0.2"
-    },
-    "license": "MIT"
+  "name": "slickgrid-print-plugin",
+  "version": "0.1.0",
+  "main": [
+    "dist/slickgrid-print-plugin.js"
+  ],
+  "ignore": [
+    "test",
+    "src/.jshintrc",
+    ".jshintrc",
+    ".travis.yml",
+    "karma.conf.js",
+    "Gruntfile.js",
+    "Makefile"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap-sass": "~3.0.2",
+    "slickgrid": "~2.1.0"
+  },
+  "license": "MIT"
 }
-
