@@ -1,8 +1,9 @@
 # slickgrid-print-plugin
 
-[![Build Status](https://travis-ci.org/wmluke/slickgrid-print-plugin.svg)](https://travis-ci.org/wmluke/slickgrid-print-plugin)
-
 Create a printable view of a [SlickGird](https://github.com/mleibman/SlickGrid) as a simple a HTML table.
+
+[![Build Status](https://travis-ci.org/wmluke/slickgrid-print-plugin.svg)](https://travis-ci.org/wmluke/slickgrid-print-plugin)
+[![Coverage Status](https://coveralls.io/repos/wmluke/slickgrid-print-plugin/badge.png)](https://coveralls.io/r/wmluke/slickgrid-print-plugin)
 
 Note: this plugin is still pre-alpha.
 
