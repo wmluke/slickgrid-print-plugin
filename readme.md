@@ -4,6 +4,7 @@ Create a printable view of a [SlickGird](https://github.com/mleibman/SlickGrid) 
 
 [![Build Status](https://travis-ci.org/wmluke/slickgrid-print-plugin.svg)](https://travis-ci.org/wmluke/slickgrid-print-plugin)
 [![Coverage Status](https://coveralls.io/repos/wmluke/slickgrid-print-plugin/badge.png)](https://coveralls.io/r/wmluke/slickgrid-print-plugin)
+[![devDependency Status](https://david-dm.org/wmluke/slickgrid-print-plugin/dev-status.svg)](https://david-dm.org/wmluke/slickgrid-print-plugin#info=devDependencies)
 
 Note: this plugin is still pre-alpha.
 
